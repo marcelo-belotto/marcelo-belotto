@@ -1,6 +1,6 @@
 # Hello, I’m Marcelo!
 
-I’m a Systems Analysis student. I completed a Technical course in Information Technology, where I gained knowledge in programming, computer networks, and technical support. I also hold a degree as an Electrotechnician, where I learned about electrical systems, industrial automation, and maintenance of electronic equipment. In addition, I have a good proficiency in English, as evidenced by my TOEIC test score, where I achieved 845 points in Listening and Reading. My professional experience includes working as a Maintenance Technician for Machines and as a Maintenance Electrician. In these roles, I developed practical skills in system and machine maintenance and repair, while deepening my knowledge in electronics and automation. 
+I’m a Systems Analysis student. 
 
 ### Contact me
 

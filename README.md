@@ -1,4 +1,4 @@
-### ⚡ Sobre mim
+### Sobre mim
 
 ```yaml
 nome:     "Marcelo Belotto"
@@ -6,9 +6,9 @@ pais:     "Brasil 🇧🇷"
 timezone: "UTC-3"
 
 status:
-  - "📚 Estudante de Análise e desenvolvimento de Sistemas"
-  - "🌱 Aprendendo: React, React Native, Java (Spring Boot)"
-  - "💻 Aberto a colaborar em projetos open source"
+  - "Estudante de Análise e desenvolvimento de Sistemas"
+  - "Aprendendo: Javascript, Java"
+  - "Aberto a colaborar em projetos open source"
 
 contato:
   email:    "marcelopdr@yahoo.com.br"
@@ -19,7 +19,7 @@ contato:
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 <!-- Substitua as linguagens/ferramentas conforme o seu uso real -->
 
@@ -48,7 +48,7 @@ contato:
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <div align="center">
 
@@ -59,7 +59,7 @@ contato:
 
 ---
 
-### 🌐 Me encontre por aí
+### Me encontre por aí
 
 <div align="center">
 
